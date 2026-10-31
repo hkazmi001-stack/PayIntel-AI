@@ -1,0 +1,53 @@
+{
+  "Google Pay": [
+    "google pay",
+    "gpay"
+  ],
+  "Apple Pay": [
+    "apple pay"
+  ],
+  "Visa Tokenization": [
+    "visa tokenization",
+    "vts",
+    "visa token service"
+  ],
+  "Mastercard Tokenization": [
+    "mastercard tokenization",
+    "mdes"
+  ],
+  "3DS Authentication": [
+    "3ds",
+    "3-d secure",
+    "3d secure",
+    "three domain secure"
+  ],
+  "Click to Pay": [
+    "click to pay",
+    "ctp"
+  ],
+  "QR Acquiring": [
+    "qr acquiring",
+    "merchant qr",
+    "qr acceptance"
+  ],
+  "DCC": [
+    "dcc",
+    "dynamic currency conversion"
+  ],
+  "Fraud Monitoring": [
+    "fraud monitoring",
+    "fraud detection"
+  ],
+  "Instant Payments": [
+    "instant payments",
+    "real-time payments"
+  ],
+  "Virtual Cards": [
+    "virtual cards",
+    "virtual card issuance"
+  ],
+  "API Integration": [
+    "api integration",
+    "rest api"
+  ]
+}
