@@ -1,0 +1,6 @@
+FICTIONAL PRODUCT: Secure Authentication
+Explicitly supported capabilities:
+- 3DS Authentication
+- Fraud Monitoring
+
+Other capabilities are not claimed as supported.

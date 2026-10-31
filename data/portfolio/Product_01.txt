@@ -1,0 +1,6 @@
+FICTIONAL PRODUCT: Digital Wallet Enablement
+Explicitly supported capabilities:
+- Google Pay
+- Apple Pay
+
+Other capabilities are not claimed as supported.

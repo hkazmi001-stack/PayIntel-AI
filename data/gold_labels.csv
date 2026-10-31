@@ -1,0 +1,47 @@
+rfp,capability
+RFP_01.txt,Google Pay
+RFP_01.txt,3DS Authentication
+RFP_01.txt,QR Acquiring
+RFP_01.txt,Click to Pay
+RFP_02.txt,QR Acquiring
+RFP_02.txt,DCC
+RFP_02.txt,API Integration
+RFP_03.txt,3DS Authentication
+RFP_03.txt,Click to Pay
+RFP_03.txt,Virtual Cards
+RFP_04.txt,Google Pay
+RFP_04.txt,Visa Tokenization
+RFP_04.txt,QR Acquiring
+RFP_05.txt,QR Acquiring
+RFP_05.txt,DCC
+RFP_05.txt,Fraud Monitoring
+RFP_06.txt,Click to Pay
+RFP_06.txt,3DS Authentication
+RFP_06.txt,Apple Pay
+RFP_07.txt,QR Acquiring
+RFP_07.txt,Instant Payments
+RFP_07.txt,API Integration
+RFP_08.txt,Google Pay
+RFP_08.txt,Click to Pay
+RFP_08.txt,DCC
+RFP_09.txt,3DS Authentication
+RFP_09.txt,QR Acquiring
+RFP_09.txt,Virtual Cards
+RFP_10.txt,Click to Pay
+RFP_10.txt,Mastercard Tokenization
+RFP_10.txt,Fraud Monitoring
+RFP_11.txt,QR Acquiring
+RFP_11.txt,DCC
+RFP_11.txt,Apple Pay
+RFP_12.txt,Google Pay
+RFP_12.txt,3DS Authentication
+RFP_12.txt,Click to Pay
+RFP_13.txt,QR Acquiring
+RFP_13.txt,Instant Payments
+RFP_13.txt,DCC
+RFP_14.txt,Click to Pay
+RFP_14.txt,3DS Authentication
+RFP_14.txt,Visa Tokenization
+RFP_15.txt,QR Acquiring
+RFP_15.txt,Google Pay
+RFP_15.txt,DCC

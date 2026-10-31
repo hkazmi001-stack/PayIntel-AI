@@ -1,0 +1,5 @@
+FICTIONAL PRODUCT: Virtual Issuance
+Explicitly supported capabilities:
+- Virtual Cards
+
+Other capabilities are not claimed as supported.

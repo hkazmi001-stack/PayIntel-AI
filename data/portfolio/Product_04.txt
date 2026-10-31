@@ -1,0 +1,6 @@
+FICTIONAL PRODUCT: Payment API Gateway
+Explicitly supported capabilities:
+- API Integration
+- Instant Payments
+
+Other capabilities are not claimed as supported.

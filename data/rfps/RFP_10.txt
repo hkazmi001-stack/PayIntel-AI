@@ -1,0 +1,10 @@
+FICTIONAL SAMPLE BANK 10 — DIGITAL PAYMENTS RFP
+Date: 2026-08-05
+All entities and requirements are synthetic for university demonstration.
+
+Mandatory payment capabilities:
+- The bank requires Click to Pay capability in the proposed solution.
+- The bank requires Mastercard Tokenization capability in the proposed solution.
+- The bank requires Fraud Monitoring capability in the proposed solution.
+
+The vendor should describe integration, security and implementation approach.

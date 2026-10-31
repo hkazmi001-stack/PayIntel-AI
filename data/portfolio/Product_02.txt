@@ -1,0 +1,6 @@
+FICTIONAL PRODUCT: Token Services
+Explicitly supported capabilities:
+- Visa Tokenization
+- Mastercard Tokenization
+
+Other capabilities are not claimed as supported.

@@ -1,0 +1,10 @@
+FICTIONAL SAMPLE BANK 05 — DIGITAL PAYMENTS RFP
+Date: 2026-07-05
+All entities and requirements are synthetic for university demonstration.
+
+Mandatory payment capabilities:
+- The bank requires QR Acquiring capability in the proposed solution.
+- The bank requires DCC capability in the proposed solution.
+- The bank requires Fraud Monitoring capability in the proposed solution.
+
+The vendor should describe integration, security and implementation approach.

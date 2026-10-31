@@ -1,0 +1,10 @@
+FICTIONAL SAMPLE BANK 09 — DIGITAL PAYMENTS RFP
+Date: 2026-08-21
+All entities and requirements are synthetic for university demonstration.
+
+Mandatory payment capabilities:
+- The bank requires 3DS Authentication capability in the proposed solution.
+- The bank requires QR Acquiring capability in the proposed solution.
+- The bank requires Virtual Cards capability in the proposed solution.
+
+The vendor should describe integration, security and implementation approach.
